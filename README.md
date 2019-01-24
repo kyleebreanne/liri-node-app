@@ -1,6 +1,7 @@
 # liri-node-app
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+
 ![Screenshot](Screenshots\Screenshot (1).png);
 
 
