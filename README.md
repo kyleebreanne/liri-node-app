@@ -2,7 +2,8 @@
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-![Screenshot](Screenshots\Screenshot (1).png);
+![screenshot 1](https://user-images.githubusercontent.com/44128719/51650812-ec0da600-1f46-11e9-8b84-db83d65482b1.png)
+
 
 
 spotify-this-song
